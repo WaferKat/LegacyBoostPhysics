@@ -1,1 +1,2 @@
+add Legacy.hmm
 add mod.ini
