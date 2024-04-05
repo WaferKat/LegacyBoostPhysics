@@ -8,6 +8,7 @@
 - Lowered Homing Attack Bounce Height
 - Increased Homing Attack Bounce Acceleration (You can now move forward more after a Homing Attack)
 - Fixed 2D issue where you could not move forward after a Homing Attack
+- Fixed Animation Playback speed when running at top speed without boosting
 
 ## Legacy Boost Physics V1.1
 - Fixed issue which causes 30FPS players to not move due to low acceleration (Sonic Team wth?) (Initial speed changed from 1 to 2)
