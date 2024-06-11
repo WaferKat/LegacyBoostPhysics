@@ -1,3 +1,18 @@
+## Legacy Boost Physics V2.0 HUGE UPDATE
+- Increased Acceleration for parity
+- Modified Steering to be more accurate to Unleashed
+- Modified Boost Speed to be more accurate to Unleashed (Without Ring Speed increase ofc)
+- Fixed a bug with the jumpball not appearing properly 
+- Fixed a bug where the jumpball does not have a hitbox
+- Lowered Stomp Bounce Height 
+- Air Boost has been extended to be accurate to Unleashed
+- Added Variable Jump Height and Short Hops
+- Sonic now exits the Jumpball when jumping like in Unleashed
+- Aerial Deceleration has been increased
+- Quickstep has been made more accurate to Unleashed
+- Stomping fall speed has been slowed down
+- Aerial Rotation has been increased
+
 ## Legacy Boost Physics V1.2
 - Lowered Max Running Speed Rotation Power
 - Increased Jump Rotation Speed
